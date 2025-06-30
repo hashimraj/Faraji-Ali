@@ -27,14 +27,6 @@ const Services = () => {
               <BiCheck className='service__list-icon' />
               <p>Conducting user research and testing</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Prototyping and wireframing</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Creating responsive designs</p>
-            </li>
           </ul>
         </article>
 
@@ -56,18 +48,6 @@ const Services = () => {
               <BiCheck className='service__list-icon' />
               <p>Integrating APIs and services</p>
             </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Optimizing website performance</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Ensuring cross-browser compatibility</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Maintaining and updating websites</p>
-            </li>
           </ul>
         </article>
 
@@ -88,14 +68,6 @@ const Services = () => {
             <li>
               <BiCheck className='service__list-icon' />
               <p>Developing marketing collateral</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Creating infographics and data visualizations</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Designing social media graphics</p>
             </li>
           </ul>
         </article>

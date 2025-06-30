@@ -65,7 +65,13 @@
 /* ========== MEDIA QUERIES (SMALL DEVICES) ========== */
 @media screen and (max-width: 600px) {
     .services__container {
-        grid-template-columns: 1fr;
-        gap: 1.5rem;
+        grid-template-columns: 1fr 1fr;
+        gap: 1rem;
+    }
+    .service__head h3 {
+        font-size: 0.7rem;
+    }
+    .service__list p {
+        font-size: 0.5rem;
     }
 }
