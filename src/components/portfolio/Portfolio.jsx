@@ -8,44 +8,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currency Dashboard & Financial Visualization",
+    title: "Twitter Clone",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
   {
     id: 2,
     image: IMG2,
     title: "Charts Templates & Infographics in Figma",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
   {
     id: 3,
     image: IMG3,
     title: "Figma Dashboard UI Kit for Data Design Web Apps",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
   {
     id: 4,
     image: IMG1,
     title: "Maintaining Tasks and Tracking Progress",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
   {
     id: 5,
     image: IMG1,
     title: "Crypto Currency Dashboard & Financial Visualization",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
   {
     id: 6,
     image: IMG2,
     title: "Crypto Currency Dashboard & Financial Visualization",
     github: "https://github.com",
-    demo: "https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization",
+    demo: "https://twitter-clone-2npx.onrender.com",
   },
 ];
 
@@ -68,7 +68,7 @@ const Portfolio = () => {
                   Github
                 </a>
                 <a href={demo} className="btn btn-primary" target="_blank">
-                  Live Demo
+                  Visit App 
                 </a>
               </div>
             </article>
